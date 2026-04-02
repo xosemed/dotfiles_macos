@@ -1,2 +1,4 @@
 # dotfiles_macos
-dotfiles used with MacOS
+dotfiles.eieio.xyz
+
+I'm learning about dotfiles at [dotfiles.eieio.xyz] (http://dotfiles.eieio.xyz).
